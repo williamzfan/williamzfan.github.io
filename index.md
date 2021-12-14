@@ -1,9 +1,7 @@
-## Welcome to GitHub Pages
+## William Fan
 
-You can use the [editor on GitHub](https://github.com/williamzfan/williamzfan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Hi, I'm William! I'm currently a sophomore at the University of Pennsylvania studying in the Networked and Social Systems Engineering (BSE) program. My general interests are in finance, mathematics, and computer science. My current research with Prof. Chaojun Wang at Wharton models price discrimination in over-the-counter financial markets. In my free time, I enjoy running, playing the piano and guitar, and solving Rubik's cubes. 
+<!---
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -35,3 +33,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+--->
