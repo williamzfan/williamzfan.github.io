@@ -2,4 +2,4 @@
 
 Hi, I'm William! I'm currently a sophomore at the University of Pennsylvania studying in the Networked and Social Systems Engineering (BSE) program. My general interests are in finance, statistics, and computer science. My current research with Prof. Chaojun Wang at Wharton models price discrimination in over-the-counter financial markets. In my free time, I enjoy running, playing the guitar, and solving Rubik's cubes. 
 
-Unfortunately, I'm making some changes to the website right now-- check back in a bit!
+I'm switching my personal website over to react.js right now-- check back in a bit!
